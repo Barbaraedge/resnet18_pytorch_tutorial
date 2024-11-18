@@ -10,7 +10,7 @@ This tutorial guides you through deploying a pre-trained ResNet18 model for imag
 
 ## Detailed Explanation
 
-For a comprehensive step-by-step walkthrough, refer to the dedicated article on our Academy Platform: (Link to the article).
+For a comprehensive step-by-step walkthrough, refer to the dedicated article on our Academy Platform: For a comprehensive step-by-step walkthrough, refer to the dedicated article on our Academy Platform: https://knowledge.barbara.tech/tutorials/deploy-pytorch-triton/
 
 ## Resources
 
